@@ -1,0 +1,18 @@
+{
+  "name": "konrad-debski-agent-skills",
+  "version": "1.0.0",
+  "description": "Personal skills for Konrad Debski's agents",
+  "author": {
+    "name": "Konrad Debski"
+  },
+  "repository": "https://github.com/KonradDebski/agent-skills",
+  "skills": [
+    "./create-pr",
+    "./famicord-sync",
+    "./figma",
+    "./unslop",
+    "./wordpress-audit",
+    "./wp-update",
+    "./wp-update-list"
+  ]
+}
