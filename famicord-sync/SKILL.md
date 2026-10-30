@@ -118,6 +118,7 @@ Use this mapping for website links and live checks. Repository names are not alw
 | pupecnikovakrev.cz | https://pupecnikovakrev.cz | Production |
 | smartcells.com.hk | https://smartcells.com.hk | Production |
 | cakam-babatko.sk | https://cakam-babatko.sk/ | Production |
+| crioestaminal.pt | https://crioestaminal.pt | Staging |
 
 ## Repository registry
 
@@ -140,3 +141,4 @@ This is the default target allowlist. Folder names are hints; Git remote identit
 - https://github.com/empressia-co/pupecnikovakrev.cz
 - https://github.com/empressia-co/smartcells.com.hk
 - https://github.com/empressia-co/cakam-babatko.sk
+- https://github.com/empressia-co/crioestaminal.pt
